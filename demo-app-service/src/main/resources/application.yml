@@ -1,0 +1,12 @@
+server:
+  port: 8081
+
+management:
+  endpoints.web.exposure.include: metrics
+  statsd:
+    metrics:
+      export:
+        enabled: true
+        flavor: telegraf
+
+categories_key_words: Shampoo, Conditioner, Styling, Treatment, Extensions, Tools, Beard, Bleach, Color

@@ -1,0 +1,208 @@
+Product Code,Name,Category
+HP001,Shampoo,Shampoo
+HP002,Conditioner,Conditioner
+HP003,Hair Gel,Styling Product
+HP004,Hair Spray,Styling Product
+HP005,Hair Oil,Treatment
+HP006,Hair Serum,Treatment
+HP007,Hair Mask,Treatment
+HP008,Hair Mousse,Styling Product
+HP009,Hair Wax,Styling Product
+HP010,Hair Pomade,Styling Product
+HP011,Hair Color Dye,Hair Color
+HP012,Hair Extensions,Hair Extensions
+HP013,Hair Straightener,Hair Styling Tools
+HP014,Hair Curler,Hair Styling Tools
+HP015,Hair Dryer,Hair Styling Tools
+HP016,Leave-In Conditioner,Conditioner
+HP017,Dandruff Shampoo,Shampoo
+HP018,Frizz Control Serum,Treatment
+HP019,Hair Thickening Shampoo,Shampoo
+HP020,Curl Enhancing Cream,Styling Product
+HP021,Hair Volumizing Spray,Styling Product
+HP022,Hair Heat Protectant Spray,Hair Styling Tools
+HP023,Hair Repair Shampoo,Shampoo
+HP024,Hair Repair Conditioner,Conditioner
+HP025,Texturizing Spray,Styling Product
+HP026,Hair Root Lifter,Styling Product
+HP027,Coconut Oil for Hair,Treatment
+HP028,Anti-Frizz Shampoo,Shampoo
+HP029,Anti-Frizz Conditioner,Conditioner
+HP030,Argan Oil Hair Serum,Treatment
+HP031,Curl Defining Gel,Styling Product
+HP032,Hair Detangler,Conditioner
+HP033,Dry Shampoo,Shampoo
+HP034,Hair Styling Cream,Styling Product
+HP035,Hair Setting Spray,Styling Product
+HP036,Keratin Shampoo,Shampoo
+HP037,Keratin Conditioner,Conditioner
+HP038,Hair Lotion,Styling Product
+HP039,Hair Revitalizing Mask,Treatment
+HP040,Hair Growth Serum,Treatment
+HP041,Hair Detox Shampoo,Shampoo
+HP042,Hair Detox Conditioner,Conditioner
+HP043,Hydrating Hair Mask,Treatment
+HP044,Leave-In Hair Mask,Treatment
+HP045,Hair Revitalizing Oil,Treatment
+HP046,Scalp Scrub Shampoo,Shampoo
+HP047,Hair Thickening Conditioner,Conditioner
+HP048,Beard Oil,Beard Care
+HP049,Beard Balm,Beard Care
+HP050,Beard Wash,Beard Care
+HP051,Hair Paste,Styling Product
+HP052,Hair Powder,Styling Product
+HP053,Heat Protectant Serum,Treatment
+HP054,Hair Growth Shampoo,Shampoo
+HP055,Hair Growth Conditioner,Conditioner
+HP056,Hair Spray Gel,Styling Product
+HP057,Leave-In Hair Conditioner,Conditioner
+HP058,Curl Enhancing Spray,Styling Product
+HP059,Hair Curling Wand,Hair Styling Tools
+HP060,Hair Straightening Brush,Hair Styling Tools
+HP061,Curling Iron,Hair Styling Tools
+HP062,Hair Volumizing Mousse,Styling Product
+HP063,Texturizing Hair Powder,Styling Product
+HP064,Hair Clay,Styling Product
+HP065,Hair Sculpting Wax,Styling Product
+HP066,Hair Setting Lotion,Styling Product
+HP067,Hair Curl Enhancer,Styling Product
+HP068,Dry Scalp Shampoo,Shampoo
+HP069,Hair Detox Mask,Treatment
+HP070,Hair Thickening Serum,Treatment
+HP071,Coconut Hair Serum,Treatment
+HP072,Beard Wash and Conditioner,Beard Care
+HP073,Beard Grooming Kit,Beard Care
+HP074,Beard Comb,Beard Care
+HP075,Hair Texturizing Paste,Styling Product
+HP076,Hair Volumizing Powder,Styling Product
+HP077,Hair Frizz Control Spray,Styling Product
+HP078,Hair Shine Serum,Treatment
+HP079,Clarifying Shampoo,Shampoo
+HP080,Hydrating Conditioner,Conditioner
+HP081,Deep Conditioning Mask,Treatment
+HP082,Hair Thickening Shampoo and Conditioner Set,Shampoo and Conditioner
+HP083,Curl-Defining Cream,Styling Product
+HP084,Heat Protectant Spray,Styling Product
+HP085,Hair Repair Serum,Treatment
+HP086,Hair Gloss Spray,Styling Product
+HP087,Volume Boosting Shampoo,Shampoo
+HP088,Volume Boosting Conditioner,Conditioner
+HP089,Hair Building Fibers,Treatment
+HP090,Smoothing Shampoo,Shampoo
+HP091,Smoothing Conditioner,Conditioner
+HP092,Hair Detox Scrub,Treatment
+HP093,Hair Growth Oil,Treatment
+HP094,Hair Color Protecting Shampoo,Shampoo
+HP095,Hair Color Protecting Conditioner,Conditioner
+HP096,Hair Color Protecting Spray,Styling Product
+HP097,Hair Curl-Enhancing Lotion,Styling Product
+HP098,Hair Curl-Enhancing Spray,Styling Product
+HP099,Curl-Defining Mousse,Styling Product
+HP100,Hair Taming Cream,Styling Product
+HP101,Hair Serum for Frizz Control,Treatment
+HP102,Hair Serum for Shine,Treatment
+HP103,Hair Serum for Repair,Treatment
+HP104,Anti-Dandruff Shampoo,Shampoo
+HP105,Anti-Dandruff Conditioner,Conditioner
+HP106,Anti-Dandruff Scalp Serum,Treatment
+HP107,Hair Thickening Spray,Styling Product
+HP108,Hair Thickening Lotion,Styling Product
+HP109,Hair Thickening Powder,Styling Product
+HP110,Hair Thickening Foam,Styling Product
+HP111,Hair Thickening Hairspray,Styling Product
+HP112,Split End Repair Serum,Treatment
+HP113,Leave-In Hair Detangler,Conditioner
+HP114,Leave-In Hair Repair Serum,Treatment
+HP115,Hair Growth Shampoo and Conditioner Set,Shampoo and Conditioner
+HP116,Hair Growth Spray,Styling Product
+HP117,Clarifying Conditioner,Conditioner
+HP118,Hydrating Shampoo,Shampoo
+HP119,Sulfate-Free Shampoo,Shampoo
+HP120,Sulfate-Free Conditioner,Conditioner
+HP121,Natural Hair Mask,Treatment
+HP122,Hair Loss Shampoo,Shampoo
+HP123,Hair Loss Conditioner,Conditioner
+HP124,Hair Loss Treatment Serum,Treatment
+HP125,Protein Hair Mask,Treatment
+HP126,Moisturizing Hair Mask,Treatment
+HP127,Hair Color Remover,Color Remover
+HP128,Temporary Hair Color Spray,Hair Color
+HP129,Hair Tint,Hair Color
+HP130,Hair Chalk,Hair Color
+HP131,Hair Bleach,Color Bleach
+HP132,Hair Color Developer,Hair Color Developer
+HP133,Hair Color Brush,Hair Color Accessories
+HP134,Hair Color Mixing Bowl,Hair Color Accessories
+HP135,Hair Dye Applicator Brush,Hair Color Accessories
+HP136,Hair Dye Kit,Hair Color Kit
+HP137,Hair Color Gloves,Hair Color Accessories
+HP138,Hair Color Cape,Hair Color Accessories
+HP139,Hair Color Apron,Hair Color Accessories
+HP140,Hair Color Bowl and Brush Set,Hair Color Accessories
+HP141,Hair Color Removal Wipes,Hair Color Accessories
+HP142,Hair Color Stain Remover,Hair Color Accessories
+HP143,Permanent Hair Color Kit,Hair Color Kit
+HP144,Semi-Permanent Hair Color,Hair Color
+HP145,Demi-Permanent Hair Color,Hair Color
+HP146,Temporary Hair Color Gel,Hair Color
+HP147,Hair Color Spray,Hair Color
+HP148,Hair Color Chalk,Hair Color
+HP149,Hair Color Wax,Hair Color
+HP150,Hair Color Markers,Hair Color
+HP151,Hair Color Cream,Hair Color
+HP152,Hair Color Powder,Hair Color
+HP153,Hair Color Paste,Hair Color
+HP154,Hair Color Pomade,Hair Color
+HP155,Hair Color Stick,Hair Color
+HP156,Hair Color Mascara,Hair Color
+HP157,Hair Color Pens,Hair Color
+HP158,Hair Color Pencils,Hair Color
+HP159,Hair Color Crayons,Hair Color
+HP160,Hair Color Spray Paint,Hair Color
+HP161,Hair Color Highlights,Hair Color
+HP162,Hair Color Streaks,Hair Color
+HP163,Hair Color Ombre Kit,Hair Color Kit
+HP164,Hair Color Balayage Kit,Hair Color Kit
+HP165,Hair Color Foils,Hair Color Accessories
+HP166,Hair Color Caps,Hair Color Accessories
+HP167,Hair Color Brushes,Hair Color Accessories
+HP168,Hair Color Clips,Hair Color Accessories
+HP169,Hair Color Combs,Hair Color Accessories
+HP170,Hair Color Foil Dispenser,Hair Color Accessories
+HP171,Hair Color Mixing Brush,Hair Color Accessories
+HP172,Hair Color Tint Brushes,Hair Color Accessories
+HP173,Hair Color Tint Bowls,Hair Color Accessories
+HP174,Hair Color Tint Caps,Hair Color Accessories
+HP175,Hair Color Tint Clips,Hair Color Accessories
+HP176,Hair Color Tint Combs,Hair Color Accessories
+HP177,Hair Color Tint Foils,Hair Color Accessories
+HP178,Hair Color Tint Sponges,Hair Color Accessories
+HP179,Hair Color Tint Trays,Hair Color Accessories
+HP180,Hair Color Tint Wraps,Hair Color Accessories
+HP181,Hair Color Tint Aprons,Hair Color Accessories
+HP182,Hair Color Tint Gloves,Hair Color Accessories
+HP183,Hair Color Tint Capes,Hair Color Accessories
+HP184,Hair Color Tint Neck Strips,Hair Color Accessories
+HP185,Hair Color Tint Shower Capes,Hair Color Accessories
+HP186,Hair Color Tint Collar Papers,Hair Color Accessories
+HP187,Hair Color Tint Bibs,Hair Color Accessories
+HP188,Hair Color Tint Capes with Viewing Window,Hair Color Accessories
+HP189,Hair Color Tint Capes with Snaps,Hair Color Accessories
+HP190,Hair Color Tint Capes with Velcro,Hair Color Accessories
+HP191,Hair Color Tint Capes with Elastic,Hair Color Accessories
+HP192,Hair Color Tint Capes with Adjustable Closure,Hair Color Accessories
+HP193,Hair Color Tint Capes with Cape Clips,Hair Color Accessories
+HP194,Hair Color Tint Capes with Snap Buttons,Hair Color Accessories
+HP195,Hair Color Tint Capes with Hook and Loop Closure,Hair Color Accessories
+HP196,Hair Color Tint Capes with Buckle,Hair Color Accessories
+HP197,Hair Color Tint Capes with Drawstring,Hair Color Accessories
+HP198,Hair Color Tint Capes with Tie Closure,Hair Color Accessories
+HP199,Hair Color Tint Capes with Zipper,Hair Color Accessories
+HP200,Hair Color Tint Capes with Magnets,Hair Color Accessories
+HP201,Hair Color Tint Capes with Collar,Hair Color Accessories
+HP202,Hair Color Tint Capes with Pockets,Hair Color Accessories
+HP203,Hair Color Tint Capes with Lining,Hair Color Accessories
+HP204,Hair Color Tint Capes with Velcro Neck Strips,Hair Color Accessories
+HP205,Hair Color Tint Capes with Snap Buttons Neck Strips,Hair Color Accessories
+HP206,Hair Color Tint Capes with Hook and Loop Closure Neck Strips,Hair Color Accessories
+HP207,Hair Color Tint Capes with Adjustable Closure Neck Strips,Hair Color Accessories
